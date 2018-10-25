@@ -1,0 +1,11 @@
+.barContainer{
+    border: 1px solid blue;
+    width: 500px;
+    height: 50px;
+    margin: auto;
+}
+.loadBar{
+    height: 50px;
+    background: blue;
+    width: 0;
+}
